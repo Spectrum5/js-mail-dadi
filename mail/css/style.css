@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(9, 5, 71, 0.89);
+}
+
+
+div {
+    width: 100%;
+    text-align: center;
+    line-height: 3rem;
+}
+
+
+.bg {
+    background-color: rgb(253, 108, 55);
+    margin-top: 5px;
+}
