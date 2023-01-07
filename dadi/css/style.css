@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(7, 6, 68);
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+#container {
+    display: flex;
+    justify-content: space-around;
+}
+
+div {
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    line-height: 250px;  
+    font-size: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.bg-green {
+    background-color: rgb(255, 0, 0);
+}
+
+.bg-purple {
+    background-color: rgb(13, 0, 128);
+}
+
+button {
+    background-color: rgb(60, 244, 183);
+    border-radius: 10px;
+}
